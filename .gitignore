@@ -8,6 +8,9 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
+# AWS User-specific
+.idea/**/aws.xml
+
 # Generated files
 .idea/**/contentModel.xml
 
@@ -51,8 +54,6 @@ out/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
-.idea
-venv
 
 # JIRA plugin
 atlassian-ide-plugin.xml
